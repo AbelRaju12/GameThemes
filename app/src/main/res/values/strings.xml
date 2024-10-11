@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GameTheme</string>
+    <string name="game_themes">Game Themes!</string>
+    <string name="elden_ring">Elden Ring</string>
+    <string name="play">PLAY</string>
+    <string name="stop">STOP</string>
+</resources>
